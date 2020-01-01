@@ -24,7 +24,7 @@ set shiftwidth=4
 set expandtab
 
 ```
-3. ~/.vimrc
+3. ~/.bashrc
 ```
 alias vi='TERM=screen-256color ~/work/programs/nvim -u ~/.config/nvim/init.vim'
 ```
