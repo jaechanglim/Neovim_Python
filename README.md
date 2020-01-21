@@ -2,9 +2,9 @@
 neovim setting for python environment
 
 1. Install
-You can get details of install from https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/
 * wget https://github.com/neovim/neovim/releases/download/v0.4.3/nvim.appimage
 * chmod u+x nvim.appimage
+* You can get details of install from https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/
 
 2. ~/.config/nvim/init.vim
 ```
