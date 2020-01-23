@@ -4,6 +4,8 @@ neovim setting for python environment
 1. Install
 * wget https://github.com/neovim/neovim/releases/download/v0.4.3/nvim.appimage
 * chmod u+x nvim.appimage
+* ln -s nvim.appimage nvim
+* download afterglow from https://github.com/danilo-augusto/vim-afterglow/blob/master/colors/afterglow.vim to ~/.config/nvim/colors/afterglow.vim
 * You can get details of install from https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/
 
 2. ~/.config/nvim/init.vim
