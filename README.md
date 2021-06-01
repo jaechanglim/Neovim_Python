@@ -1,3 +1,4 @@
+```
 call plug#begin('~/.local/share/nvim/plugged')
 
 Plug 'davidhalter/jedi-vim'
@@ -38,3 +39,4 @@ if has("autocmd")
 endif
 " Remove unwanted spaces in line end
 autocmd FileType vim autocmd BufWritePre <buffer> %s/\s\+$//e
+```
